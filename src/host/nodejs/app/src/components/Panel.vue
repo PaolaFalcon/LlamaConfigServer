@@ -32,7 +32,7 @@ export default {
     return {
       items: [
         { name: "Neptuno", apps: [{ name: "Star" }, { name: "Black" }] },
-        { name: "Pluton", apps: [{ name: "Moon" }] }
+        { name: "Pluton", apps: [{ name: "Moon" }, { name: "Sun" }] }
       ]
     };
   },
